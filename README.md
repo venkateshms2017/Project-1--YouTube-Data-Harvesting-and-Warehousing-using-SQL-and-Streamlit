@@ -1,5 +1,5 @@
 # Project-1
-👋 Hi, @riyasudeen here, I’m interested in Data Science field 🌱 DS 📫 You can reach me at riyaspaul82@gmail.com
+Hello, I’m interested in Data Science field and You can reach me at venkateshms2017@gmail.com
 
 
 # YouTube Data Harvesting and Warehousing using SQL and Streamlit
@@ -105,9 +105,7 @@ There are two files
 2. .py file has the program for input a new channel ID to get details for additional channels and store them in the mysql and display in Streamlit application.
 
 ## Demo in LinkedIn
-https://www.linkedin.com/posts/riyasudeen-m-876b3a307_here-is-the-first-project-demo-video-in-python-activity-7192457905189634048-gXT1?utm_source=share&utm_medium=member_desktop
-
-
+https://www.linkedin.com/in/venkatesh-sivanathan-037648248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ## Installation
