@@ -93,36 +93,4 @@ The googleapiclient library in Python facilitates the communication with differe
 
 ## Lessons Learned
 
-Python scripting, Data Collection, Streamlit, API integration, Data Management using SQL  
-
-
-## Workflow
-
-There are two files
-
-1. ipynb file has the program for collecting data with the help of Google API of YouTube and inputing a YouTube channel ID to retrieve all the relevant data (Channel name, subscribers, description, total video count, total view count, playlist ID for each channel, video ID, video title, video description, publication date, thumblnails, views, likes, duration, caption and comments of each video, author name, comment text, published date for each comments).
-
-2. .py file has the program for input a new channel ID to get details for additional channels and store them in the mysql and display in Streamlit application.
-
-## Demo in LinkedIn
-https://www.linkedin.com/in/venkatesh-sivanathan-037648248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-
-## Installation
-
-Install packages with pip
-
-```bash
-pip install mysql.connector
-pip install pandas
-pip install sqlalchemy
-pip install streamlit
-
-
-import googleapiclient.discovery
-import mysql.connector
-import pandas as pd
-from sqlalchemy import create_engine
-import re
-from googleapiclient.errors import HttpError
-import streamlit as st
+Python scripting, Data Collection, Streamlit, API integration, Data Management using SQL
